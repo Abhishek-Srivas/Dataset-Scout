@@ -1,0 +1,25 @@
+{
+  "name": "dataset-scout",
+  "version": "1.0.0",
+  "description": "An DataSet providing Api For ML ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekSrivas114319/Dataset-Scout.git"
+  },
+  "author": "Abhishek Srivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekSrivas114319/Dataset-Scout/issues"
+  },
+  "homepage": "https://github.com/AbhishekSrivas114319/Dataset-Scout#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
